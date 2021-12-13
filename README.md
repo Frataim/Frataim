@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Talgat
+### Hi there 👋 , I'm Talgat
 
 And I'am a JavaScript Developer from Moscow!
 
