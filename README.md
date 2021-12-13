@@ -4,7 +4,8 @@ And I'am a JavaScript Developer from Moscow!
 
 
 🔎 You can find me here:
-Aleksander Vypov | Telegramfrataim 
+Frataim | Telegramfrataim 
+
 ⚡ My Technology stack:
 React  Java Script   Redux  Node  
 Git  GitHub  HTML  CSS 
