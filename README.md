@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Talgat
+
+And I'am a JavaScript Developer from Moscow!
 
 <!--
 **Frataim/Frataim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
