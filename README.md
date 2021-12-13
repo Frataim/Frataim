@@ -4,7 +4,7 @@ And I'am a JavaScript Developer from Moscow!
 
 
 🔎 You can find me here:
-Frataim | Telegramfrataim 
+Frataim | Telegram @frataim 
 
 ⚡ My Technology stack:
 React  Java Script   Redux  Node  
