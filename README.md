@@ -3,7 +3,7 @@
 And I'am a JavaScript Developer from Moscow!
 
 
-### 🔎 You can find me here:
+## 🔎 You can find me here:
 <a href="https://telegram.im/@frataim?lang=ru">
   <img align="left" alt="Talgat Aimbetov | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
@@ -34,7 +34,8 @@ And I'am a JavaScript Developer from Moscow!
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)
 
-##### 🧠 I’m currently learning:
+## 🧠 I’m currently learning:
+
 [![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
 <!--
 **Frataim/Frataim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
