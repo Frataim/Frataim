@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Talgat
 
-And I'am a JavaScript Developer from Moscow!
+And I'm a JavaScript Developer from Moscow!
 
 
 ## 🔎 You can find me here:
