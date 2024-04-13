@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Talgat
 
-And I'm a JavaScript Developer from Moscow!
+And I'm a Frontend Developer from Moscow!
 
 
 ## 🔎 You can find me here:
@@ -14,6 +14,7 @@ And I'm a JavaScript Developer from Moscow!
 <br />
 
 #### ⚡ My Technology stack:
+[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
 [![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)&nbsp;
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) &nbsp;
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)&nbsp;
@@ -34,11 +35,7 @@ And I'm a JavaScript Developer from Moscow!
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)
 
-## 🧠 I’m currently learning:
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
-<!--
-**Frataim/Frataim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
